@@ -1,0 +1,9 @@
+/* ////////////////////////////
+/ Teste de início de novo GIT para projeto de T.I.
+/
+//////////////////////////*/
+
+Este arquivo contém uma ajuda para facilitar o acesso aos dados do projeto NETWORK optmization.
+Todos os códigos e toda a informação necessária para conduzir o projeto podem ser encontradas aqui.
+
+Os arquivos de código e também de documentos estão em cada uma das pastas.
